@@ -9,7 +9,7 @@ Git must be installed on your operating system.
 Run Locally
 To run Grilli locally, run this command on your git bash:
 
-Linux and macOS:
+Linux and macOS
 
 sudo git clone https://github.com/codewithsadee/grilli.git
 Windows:
